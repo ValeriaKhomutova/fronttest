@@ -1,0 +1,6 @@
+.digits {
+  /*display: flex;*/
+  align-items:center;
+  position: relative;
+  margin: 100px auto 100px auto;
+}

@@ -1,0 +1,13 @@
+.footer{
+  background-color: #1f1f1f;
+  color: white;
+  padding: 60px 0 40px;
+  display: flex;
+}
+
+.footer__column-links {
+    margin: 20px 0 16px;
+    display: flex;
+    flex-direction: column;
+}
+
