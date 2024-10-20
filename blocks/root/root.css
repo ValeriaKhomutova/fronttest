@@ -1,12 +1,12 @@
-/*body,p, h1, h2, div,.page,.feynman, nav{
+body,p, h1, h2, div,.page,.feynman, nav{
   border: 1px solid red;
   margin: 0;
-}*/
-
-body, p , h1, h2,div{
-  margin: 0;
-  border: 1px solid red;
 }
+
+/*body, p , h1, h2,div{
+  margin: 0;
+  border: 1px solid red;
+}*/
 
 img{
   width: 100%;
